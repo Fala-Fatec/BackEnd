@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python-version
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# --- Variáveis de Ambiente e Segredos ---
+.env
+
+# --- IDEs e Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
